@@ -1,0 +1,7 @@
+.content {
+    border: 5px solid red;
+}
+
+#hidepoint:checked~.qq {
+    display: none
+}
